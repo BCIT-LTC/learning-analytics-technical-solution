@@ -15,7 +15,7 @@ Run `docker compose up --build` in your terminal.
 
 ## Support, Discussion, and Community
 
-We value feedback! Please submit any bugs or feature requests to [bcit-ltc/ltc-learning-analytics]().
+We value feedback! Please submit any bugs or feature requests to [bcit-ltc/learning-analytics-technical-solution](https://github.com/BCIT-LTC/learning-analytics-technical-solution).
 
 ## License
 
